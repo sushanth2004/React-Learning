@@ -1,0 +1,22 @@
+{
+  "name": "react-learning",
+  "version": "1.0.0",
+  "description": "React App by Sushanth",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushanth2004/React-Learning.git"
+  },
+  "author": "Sushanth Neelam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushanth2004/React-Learning/issues"
+  },
+  "homepage": "https://github.com/sushanth2004/React-Learning#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
