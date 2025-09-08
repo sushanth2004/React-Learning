@@ -2,7 +2,6 @@
   "name": "react-learning",
   "version": "1.0.0",
   "description": "React App by Sushanth",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -18,5 +17,9 @@
   "homepage": "https://github.com/sushanth2004/React-Learning#readme",
   "devDependencies": {
     "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
   }
 }
