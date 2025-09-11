@@ -1,3 +1,29 @@
-#heading{
-    color: red;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    background-color: aquamarine;
+    padding: 10px 10px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+input{
+    display: block;
+    padding: 10px;
+    height: 30px;
+    width: 300px;
+    border: none;
+    border-radius: 15px;    
+}
+
+img{
+    border-radius: 50%;
+   height: 80px;
+   width: 80px;
 }
